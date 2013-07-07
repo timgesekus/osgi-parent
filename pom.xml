@@ -19,6 +19,7 @@
 		<common.version>${pom.version}</common.version>
 	</properties>
 
+
 	<build>
 		<plugins>
 			<plugin>
