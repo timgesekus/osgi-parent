@@ -4,13 +4,6 @@
 	<artifactId>parent</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<modules>
-		<module>../osgi-source</module>
-		<module>../osgi-manager-api</module>
-		<module>../osgi-manager-impl</module>
-		<module>../osgi-container</module>
-		<module>../osgi-cnf</module>
-	</modules>
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-parent.git</developerConnection>
   </scm>
