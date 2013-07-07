@@ -8,10 +8,16 @@
 		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-parent.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
+        <modules>
+		<module>../osgi-source</module>
+		<module>../osgi-manager-api</module>
+		<module>../osgi-manager-impl</module>
+		<module>../osgi-container</module>
+		<module>../osgi-cnf</module>
+	</modules>
 	<properties>
 		<common.version>${pom.version}</common.version>
 	</properties>
-
 
 	<build>
 		<plugins>
