@@ -11,11 +11,13 @@
 		<module>../manager-impl</module>
 		<module>../container</module>
 	</modules>
-	
+	<scm>
+		<developerConnection>scm:git@github.com:timgesekus/osgi-parent.git</developerConnection>
+	</scm>
 	<properties>
 		<common.version>${pom.version}</common.version>
 	</properties>
-	
+
 	<build>
 		<plugins>
 			<plugin>
