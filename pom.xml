@@ -10,6 +10,7 @@
 		<module>../manager-api</module>
 		<module>../manager-impl</module>
 		<module>../container</module>
+		<module>../cnf</module>
 	</modules>
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-parent.git</developerConnection>
