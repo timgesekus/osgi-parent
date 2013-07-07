@@ -12,7 +12,7 @@
 		<module>../container</module>
 	</modules>
 	<scm>
-		<developerConnection>scm:git@github.com:timgesekus/osgi-parent.git</developerConnection>
+		<developerConnection>scm:git:ssh://git@github.com:timgesekus/osgi-parent.git</developerConnection>
 	</scm>
 	<properties>
 		<common.version>${pom.version}</common.version>
