@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.gesekus.mavenosgi</groupId>
 	<artifactId>parent</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com/timgesekus/osgi-parent.git</developerConnection>
